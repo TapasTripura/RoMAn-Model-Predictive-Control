@@ -5,13 +5,13 @@ This repository contains the python codes of the paper
   > + Tripura, T., & Chakraborty, S. (2023). Robust model agnostic predictive control algorithm for randomly excited dynamical systems. Probabilistic Engineering Mechanics, 103517. [Paper](https://doi.org/10.1016/j.probengmech.2023.103517)
 
 ## Schematic architecture of the RoMAn-MPC
-![RoMAn](RoMAn.png)
+![RoMAn](images/RoMAn.png)
 
 ## The system discovery module
-![Model_discovery](Identification_control.png)
+![Model_discovery](images/Identification_control.png)
 
 ## The Robust control module
-![Control](SMPC.png)
+![Control](images/SMPC.png)
 
 # Files
   + `Deterministic_codes` Contains the source codes (examples 1-3) for DT, when both noisy input-output information are available.
